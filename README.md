@@ -26,13 +26,12 @@ This project implements a structured backtesting framework capable of:
 
 
 algo-trading-backtesting-engine/
-│
-├── strategies/        # Strategy logic (MACD, etc.)
-├── backtester/        # Core backtesting engine
-├── data/              # Input market data
-├── reports/           # Output reports (Excel)
-├── utils/             # Helper functions
-└── main.py            # Execution entry point
+
+strateies/        # Strategy logic (MACD, etc.)
+backtester/        # Core backtesting engine
+reports/           # Output reports (Excel)
+utils/             # Helper functions
+main.py            # Execution entry point
 
 ▶️ How to Run
 
