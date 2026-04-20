@@ -2,6 +2,14 @@
 
 A scalable and modular algorithmic trading backtesting system designed to evaluate systematic strategies across multiple equities (NIFTY 50 universe).
 
+🧠 Key Insights
+
+- Designed to scale across 50+ equities
+- Supports rapid strategy prototyping
+- Enables comparative analysis across multiple trading models
+- Built with modular architecture for extensibility
+
+
 📌 Overview
 
 This project implements a structured backtesting framework capable of:
